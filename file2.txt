@@ -1,2 +1,1 @@
-I have updated line1 in file2
-this filename is file2
+this is file2
